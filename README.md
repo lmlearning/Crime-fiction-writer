@@ -1,4 +1,4 @@
-# Crime Fiction Writing Agent
+# Crime Fiction Writing Workflow for Claude Code
 
 Welcome to your Crime Fiction Writing Agent! This repository is configured with Claude Code to help you write compelling mysteries, thrillers, and detective stories.
 
